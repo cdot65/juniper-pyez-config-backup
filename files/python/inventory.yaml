@@ -13,6 +13,6 @@ routers:
   - name: "redtail_rack_001_access4"
     ip: "192.168.110.84"
   - name: "redtail_rack_001_access5"
-    ip: "192.168.110.75"
+    ip: "192.168.110.85"
   - name: "redtail_rack_001_access6"
     ip: "192.168.110.86"
